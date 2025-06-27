@@ -1,22 +1,22 @@
 {
-    "DSTL Deliverables": {
-        "DSTL Deliverable 1": {
-            "begin": "Oct-24",
-            "duration": 0
-        },
-        "DSTL Deliverable 2": {
-            "begin": "Oct-25",
-            "duration": 0
-        },
-        "DSTL Deliverable 3": {
-            "begin": "Oct-26",
-            "duration": 0
-        }
+  "DSTL Deliverables": {
+    "DSTL Deliverable 1": {
+      "begin": "Oct-24",
+      "duration": 0
     },
-    "Funding": {
-        "Funding Ends": {
-            "begin": "Oct-26",
-            "duration": 0
-        }
+    "DSTL Deliverable 2": {
+      "begin": "Oct-25",
+      "duration": 0
+    },
+    "DSTL Deliverable 3": {
+      "begin": "Oct-26",
+      "duration": 0
     }
+  },
+  "Funding": {
+    "Funding Ends": {
+      "begin": "Jan-26",
+      "duration": 0
+    }
+  }
 }
